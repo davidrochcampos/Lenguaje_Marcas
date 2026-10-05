@@ -1,0 +1,9 @@
+{
+    "nombre": "Juan Pérez",
+    "edad": 30,
+    "direccion": {
+        "calle": "Calle Falsa 123",
+        "ciiudad": "Madrid",
+        "codigo_postal": "28080"
+    }
+}
